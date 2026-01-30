@@ -14,7 +14,7 @@
 ## 📸 Ekran Görüntüleri
 
 | Genel Görünüm (Karanlık Mod) |
-| ![Main View](assets/screenshot1.png) |
+| ![Main View] screenshot1.png) |
 
 ---
 
