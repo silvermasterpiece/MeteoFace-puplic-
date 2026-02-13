@@ -7,7 +7,7 @@
 
 **MeteoFace**, modern web teknolojileri kullanılarak geliştirilmiş, 3D küre üzerinde çalışan interaktif bir meteorolojik analiz panelidir. Standart hava durumu uygulamalarının aksine, **izobar (eş basınç) analizi**, **rüzgar vektörleri** ve **atmosferik tahminleri** görselleştirerek profesyonel bir deneyim sunar.
 
-[🔴 CANLI DEMO İÇİN TIKLA](https://silvermasterpiece.github.io/MeteoFace/) 
+[🔴 CANLI DEMO İÇİN TIKLA](https://www.meteoface.com/) 
 
 ---
 
