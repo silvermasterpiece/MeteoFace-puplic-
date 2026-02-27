@@ -1,7 +1,6 @@
 # 🌍 MeteoFace | 3D Weather Analysis Dashboard
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![Technology](https://img.shields.io/badge/Mapbox-GL%20JS-blueviolet)
 ![API](https://img.shields.io/badge/API-Open--Meteo-orange)
 
@@ -22,7 +21,6 @@
 
 * **🌍 3D İnteraktif Küre:** Mapbox GL JS altyapısı ile tamamen döndürülebilir, yakınlaştırılabilir dünya haritası.
 * **⚡ Canlı Veri Akışı:** Open-Meteo API kullanılarak çekilen anlık (Real-time) sıcaklık, rüzgar, nem ve basınç verileri.
-* **〰️ Dinamik İzobar Çizimi:** `Turf.js` kullanılarak istemci tarafında (Client-side) hesaplanan, **matematiksel enterpolasyonla** çizilen yumuşak basınç eğrileri.
 * **🔴 AB / 🔵 YB Analizi:** Harita üzerindeki en düşük (Alçak Basınç) ve en yüksek (Yüksek Basınç) merkezlerin otomatik tespiti ve işaretlenmesi.
 * **🇹🇷 Türkiye Modu:** Tek tuşla Türkiye'ye odaklanma ve 81 ilin verisini anında analiz etme yeteneği.
 * **⏳ Zaman Yolculuğu:** 48 saatlik tahmin verileri arasında gezinebilmeyi sağlayan interaktif zaman çubuğu (Time Slider).
@@ -56,8 +54,3 @@ Bu proje, herhangi bir Backend (Sunucu) bağımlılığı olmadan, tamamen **Van
 * [GitHub Profilim](https://github.com/silvermasterpiece)
 * [LinkedIn Profilim](https://www.linkedin.com/in/an%C4%B1l-g%C3%BCm%C3%BC%C5%9F-39a4a0256)
 
----
-
-## 📄 Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
